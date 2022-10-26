@@ -19,7 +19,7 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.37",
+    "@docusaurus/core": "2.0.0",
     "@docusaurus/preset-classic": "2.0.0-alpha.37",
     "classnames": "^2.2.6",
     "markdown-to-jsx": "^6.10.3",
